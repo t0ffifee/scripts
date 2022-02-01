@@ -1,3 +1,4 @@
+#! /usr/bin/bash
 firefox --new-window ad.nl
 firefox --new-tab formula1.com
 firefox --new-tab reddit.com/r/formuladank
